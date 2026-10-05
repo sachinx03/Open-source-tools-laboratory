@@ -16,3 +16,4 @@ public class Course {
         System.out.println("Course Name: " + name);
     }
 }
+//this code displays name and course code
